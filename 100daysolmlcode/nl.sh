@@ -6,7 +6,7 @@ nb=$(head -n 1 ./log.md)
 # increase number of days
 ((nb++))
 # replace number of days in the file
-sed -i "1s/.*/$nb/" ./log.md
+sed -i '' "1s/.*/$nb/" ./log.md
 dateOfTheDay=$(date +%Y-%m-%d)
 echo -e "\n# day $nb: $dateOfTheDay\n\n" >> ./log.md
 
