@@ -1,4 +1,4 @@
-8
+10
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -83,3 +83,33 @@ do it the hard way
 I want to deal with numerics, multiple choices, ranks, and binary data. I need
 to think a little bit more, before writing code
 * C5W1L09 : Gated Recurrent Unit (first 11 minutes)
+
+# day 9: 2019-01-11
+
+* C5W1L09 : Gated Recurrent Unit 
+* productivity = 0
+* i've read a few pages of the book "Deep Learning" chapter 10
+* copied coursera exercises on sequence models
+
+# day 10: 2019-01-12
+
+* keno project : bob wants to win money playing keno, and thinks there's a pattern
+so I think it can actually be a funny project to apply my freshly learned knowledge
+on RNNs
+  * gathering data : found a website with all the results
+  * tryed to install a python package to web scrap the data, but it failed
+because I messed up with my environements, and really should try to clean
+everything up, but I am not ready to spend time doing that
+  * I probably can do that with some CLTools, probably can just use awk, I need
+to learn awk. Yeah, bbut let use a better tool for the job, xpath. I know
+xpath, I don't remember the syntax, because my memory is leaking real bad, so
+back to my college material. Actually this file has information on Trees, need
+to read it, to help me implement the random forest. That's crazy how fast I
+forget things.
+I like to learn about things before using them, I think the time I spend learning
+helps me being more productive and losing less time, but I am still not sure
+about how much time learning is too much.
+I need to stop thinking and just go in there, flying, dominating, with speed,
+momentum and violence
+let's just fucking use javascript, console.log and don't care about anything
+Done, what is wrong with me, it's 4:20 am
