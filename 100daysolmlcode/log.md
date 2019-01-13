@@ -1,4 +1,4 @@
-10
+11
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -113,3 +113,8 @@ I need to stop thinking and just go in there, flying, dominating, with speed,
 momentum and violence
 let's just fucking use javascript, console.log and don't care about anything
 Done, what is wrong with me, it's 4:20 am
+
+# day 11: 2019-01-13
+
+* tested the csv file I created this night
+* create git repo for the Keno project
