@@ -1,4 +1,4 @@
-11
+15
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -118,3 +118,47 @@ Done, what is wrong with me, it's 4:20 am
 
 * tested the csv file I created this night
 * create git repo for the Keno project
+* C5W1L10 : LSTM
+
+# day 12: 2019-01-14
+
+* Randomly started to watch StatQuest's video on PCA (because i don't remember how
+it works), and it started to talk about eigenvectors and gave intuitions about
+what eigenvectors are and why we use them. I studied eigen vectors and values
+at college, but I don't really know the intuition behind them, and their applications
+* Looking for more information on Eigendecomposition I've stumbled on a
+3BLUE1BROWN serie on Linear Algebra, and because 3BLUE1BROWN's videos are
+excellent I am just going to watch the whole serie without taking notes (because
+I've already learned Linear Algebra). The goal is to have a better intuition of
+Linear Algebra, I think it will help me visualize things in AI, I mean neural
+nets don't apply linear transformations but eeeeeeeeeeeeeee :
+  * chapter 1 - vectors, what even are they ?
+  * chapter 2 - linear combinations, span and basis vectors
+  * chapter 3 - linear transformations and matrices
+  * chapter 4 - Matrix multiplication as composition
+  * chapter 5 - 3-dimensional linear transformations
+  * chapter 6 - The determinant
+* Actually I took notes
+
+# day 13: 2019-01-15
+
+* These videos are gold, 3BLUE1BROWN serie on Linear Algebra
+  * chapter 7 - Inverse matrices, column space and null space
+  * chapter 8 - Nonsquare matrices as transformations between dimensions
+  * chapter 9 - Dot products and duality
+* Read http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/ up to Topology of tanh Layers
+
+# day 14: 2019-01-16
+
+* read my notes on the linear algebra intuition serie
+* chapter 10 - cross products
+* chapter 11 - Cross products in the light of linear transformations
+  * that one is pretty tough, I need to watch it fully first, understand it, and
+  then take notes
+
+# day 15: 2019-01-17
+
+* busy day, time goes flying
+* chapter 12 - Change of Basis, I think I have a better intuition than 3B1B
+himself, I post a comment on the video explaining my point of view.
+
