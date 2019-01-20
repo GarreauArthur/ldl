@@ -1,4 +1,4 @@
-15
+18
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -162,3 +162,18 @@ nets don't apply linear transformations but eeeeeeeeeeeeeee :
 * chapter 12 - Change of Basis, I think I have a better intuition than 3B1B
 himself, I post a comment on the video explaining my point of view.
 
+# day 16: 2019-01-18
+
+* chapter 13 - Eigenvectors and eigenvalues
+
+# day 17: 2019-01-19
+
+* chapter 14 - Abstract vector spaces
+The serie on the linear algebra essence is finally over, it was great. Now I
+need to learn more about topology,
+* StatQuest video on PCA
+
+# day 18: 2019-01-20
+
+* a quick tour of google colab, I am probably going to use it to work on the
+keno project
