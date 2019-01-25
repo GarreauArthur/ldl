@@ -1,4 +1,4 @@
-18
+23
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -177,3 +177,43 @@ need to learn more about topology,
 
 * a quick tour of google colab, I am probably going to use it to work on the
 keno project
+* read my notes on RNN, I need to implement one from scratch to really know how
+they work, know the shapes of the matrices...
+* deeplearning.ai C5W1L11 - BiDirectional RNN
+
+# day 19: 2019-01-21
+
+* started a course on Financial Markets for some reason, maybe I thought I add
+too much free time or whatever. I am just very curious about finance and markets
+and money, plus there is a lot of machine learning in this area
+* C5W1L12 : Deep RNNs, finally over with the first week of course 5, I feel like
+i took forever, now the assignements, 
+
+# day 20: 2019-01-22
+
+* Started implementing a RNN "from scratch". I was expecting the networking to
+have more layers, not just `x,a-->tanh-->softmax-->y`, but `x,a-->tanh-->a-->tanh-->...`
+sharing all the different `a`. The coursera assignements are really too easy,
+you don't need to think to complete them, but it's still interesting to see
+the different blocks to build a RNN. I see it more like a way to validate my
+understanding of the course rather than a coding challenge. I mean now, there are
+tensorflow/keras, pytorch to build model easily, so I don't know if I should/
+need to implement one from scratch all by myself. OMG I can't stop forgetting
+how to use python and numpy, that's lame.
+
+# day 21: 2019-01-23
+
+* I am mad, and can't focus
+* Complete LSTM code, up to : Backpropagation in recurrent neural networks
+
+# day 22: 2019-01-24
+
+* DeepMind Startcraft II demo boys, deepmind won, TLO got rekt
+* Started project Keno on Google colab
+* watch some part of Getting Started with TensorFlow and Deep Learning | SciPy 2018 Tutorial | Josh Gordon
+
+# day 23: 2019-01-25
+
+* watch a little bit of yesterday video <https://youtu.be/tYYVSEHq-io>
+GOAL : watch all the vid rapidly https://youtu.be/tYYVSEHq-io?t=1577
+start implementing a RNN or LSTM or GRU with tensorflow keras keno, google colab
