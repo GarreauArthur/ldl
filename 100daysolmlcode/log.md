@@ -1,4 +1,4 @@
-23
+25
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -217,3 +217,37 @@ how to use python and numpy, that's lame.
 * watch a little bit of yesterday video <https://youtu.be/tYYVSEHq-io>
 GOAL : watch all the vid rapidly https://youtu.be/tYYVSEHq-io?t=1577
 start implementing a RNN or LSTM or GRU with tensorflow keras keno, google colab
+
+# day 24: 2019-01-26
+
+* I am starting to be a little mad, I have been trying to implement a RNN using
+tensorflow for the stupid keno projet for 3 days, and I am wasting a lot of time
+to do something that should be simple. I thought there would be an example of
+how to do it with keras on the tensorflow website, but no, they use the old
+fashion data flow. Because I don't use tensorflow enough, because I didn't spend
+enough time in it, I don't remember/know how it works, so I decided to learn
+more about it and started looking at Josh Gordon's video, but he says "if you
+see that type of code, run away", and he's like we're going to show you how to
+do this amazing cool stuff and 10 seconds later start a notebook to classify
+fashion-NMIST. So 2h for not much, no thank you, so let's try to dig deeper, and
+find Sequence Models in keras. There is CuDNNLSTM, ok nice. But, then we can
+see another problem of the tensorflow doc : it doesn't give a hint on how to use
+it, how to format the input data, what's the output, how to "build the model"...
+For example : 'units : positive integer, dimnesionality of the output space'.
+What does that even mean ? Dimensionality of the output space, is that the number
+of outputs, is that the shape of the output, is that the number of LSTM cells,
+I mean wtf, can't you just write "number of output nodes". Let's watch some tuto
+on how to implement LSTM with tensorflow and keras. Nice the tutorials doesn't
+explain anything I don't already know, and some of them litteraly say "I don't
+know" ; ok I am mad, I am just going to dive into the doc, search on stackoverflow
+and do it the hard way, It's probably going to be easier and faster -.-
+
+# day 25: 2019-01-27
+
+* 1h a day every day, makes me do bad things, because I need to do it, and it's
+very short I try to do what I need to do as fast as possible without thinking too
+much, without automating things. I am very disappointed by myself, I need to
+work harder, so let's start doing thing properly.
+* let's create a proper dataset for Keno, by web scrapping the data and process it to
+create a ready-to-use dataset
+  * script scra.py to scrap the web page, get the numbers, transform them in one-hot vectors and create CSV file, it was really fucking easy, I really need to stop being lazy it makes my life harder
