@@ -1,4 +1,4 @@
-23
+26
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -217,3 +217,19 @@ how to use python and numpy, that's lame.
 * watch a little bit of yesterday video <https://youtu.be/tYYVSEHq-io>
 GOAL : watch all the vid rapidly https://youtu.be/tYYVSEHq-io?t=1577
 start implementing a RNN or LSTM or GRU with tensorflow keras keno, google colab
+
+# day 24: 2019-01-28
+
+* I can't find the information I am looking for and it's pissing me off, I swear no one ever tried, no one knows, it's nowhere. Ok guess I am not ready yet, I am going to start building simpler model, do a few exercices using RNNs, LSTMs, GRU, before argpiuanrpg I mean fuck !, it's supposed to be simpler, If i implemented it from scratch or using dataflow it would be already done, what a fucking waste of time
+* Tried sentdex tuto, but I've got dimensions errors, FFS, I am done, I quit, and probably not going to touch that shit for 1 week
+
+# day 25: 2019-01-29
+
+* OMEGALUL, I am an idiot, fix sentdex tuto error, just forgot to remove a parameter, but I am getting really poor results, can't stop being stupid and not focused, <https://youtu.be/BSpXCRTOLJA> : DONE, I've learn nothing, great.
+* But it's fun, let follow this one : <https://youtu.be/ne-dpRdNReI>
+* Learned about python "f-strings", pandas dataframe shift method
+
+# day 26: 2019-01-30
+
+* busy day 7 to 22, but I ain't no bitch
+* sentdex part9, looks like spagetthi code to me
