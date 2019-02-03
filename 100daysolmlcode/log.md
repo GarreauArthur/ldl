@@ -1,4 +1,4 @@
-28
+32
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -268,3 +268,24 @@ create a ready-to-use dataset
 * busy day 7 to 22, but I ain't no bitch
 * sentdex part9, looks like spagetthi code to me
 
+# day 29: 2019-01-31
+
+* sentdex part10
+* sentdex part11
+
+# day 30: 2019-02-01
+
+* Python Data Science Handbook, Chapter 2
+  * read again p 33 to 63
+  * read p64 to 78 (Broadcasting, Comparisons, Masks and Boolean Logic)
+
+# day 31: 2019-02-02
+
+* preprocess the data for the keno project
+* build a first model, get 70% accuracy, but I am not really sure about that chief
+
+# day 32: 2019-02-03
+
+* Python Data Science Handbook, Chapter 2
+  * p. 78 to 88 (Fancy indexing, array sorting, partitioning)
+* (sundays are the worst, I can't do shit from 5pm to 11pm)
