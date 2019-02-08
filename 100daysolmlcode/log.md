@@ -1,4 +1,4 @@
-32
+36
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -289,3 +289,48 @@ create a ready-to-use dataset
 * Python Data Science Handbook, Chapter 2
   * p. 78 to 88 (Fancy indexing, array sorting, partitioning)
 * (sundays are the worst, I can't do shit from 5pm to 11pm)
+
+# day 33: 2019-02-04
+
+* Python Data Science Handbook, Chapter 2 p. 89 to 96 (example : k-Nearest Neighbors, structured data)
+* Just a bit of fun:
+  * How to make an amazing tensorflow chatbot easily <https://youtu.be/SJDEOWLHYVo>, omeglul, i forgot that Siraj's videos don't teach anything
+  * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+    * Introduction (hello world, basic operations, tensorflow eager api basics)
+    * Linear Regression with Eager API
+* **thoughts**: I kinda want 2 learn more about the TensorFlow low level API,
+because what I really like about ML and DL is the math, and keras is useful and
+fast but I don't want to do that, I don't want to be a script kiddy
+
+# day 34: 2019-02-05
+
+* **Thoughts** I am wasting a lot of time in my day, and could do more, because :
+  * I am really tired, and out of shape, my brain is lacking oxigen (it hurts a little bit), I need 2 naps a day to survive
+  * 8hours of lecture is boring and not very effective (but college)
+  * I am not focused enough
+  * I want to work on a bigger project, probably going to look what's up on kaggle tomorrow
+* Linear Regression Example (without eager exec)
+  * <https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/linear_regression.ipynb>
+  * <https://www.tensorflow.org/guide/low_level_intro>
+
+# day 35: 2019-02-06
+
+* I am about to have a contract to finish the work on a scheduler, it's a 
+constrained combinatorial optimization problem, and a genetic algorithm is used
+(good ol' fashion "ai")
+* Constraint satisfaction problems <https://youtu.be/lCrHYT_EhDs>
+* alldiff <https://www.math.unipd.it/~frossi/alldiff.pdf>
+
+# day 36: 2019-02-07
+
+* **thoughts** I am so focused on DL that I almost forgot what AI is all about,
+so I rewatch MIT lectures to go back to the main ideas, and start 6.0002 because
+they teach concept I need to learn (i.e. Monte Carlo Simulation). It also helps
+me to remember names of algo (when you have a name for an idea you got power
+over it)
+* rewatch MIT 6.034
+  * lec1 intro and scope <https://youtu.be/TjZBTDzGeGg>
+  * lec2 Reasoning: Goal Trees and Problem solving
+* genetics algs (francisco Lacobelli) <https://youtu.be/qt85_CinKwo>
+* MIT 6.0002 Introduction to Computational Thinking and Data Science
+  * lec 1 Introduction and Optimization Problems <https://youtu.be/C1lhuz6pZC0>
