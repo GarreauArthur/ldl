@@ -1,4 +1,4 @@
-36
+45
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -334,3 +334,63 @@ over it)
 * genetics algs (francisco Lacobelli) <https://youtu.be/qt85_CinKwo>
 * MIT 6.0002 Introduction to Computational Thinking and Data Science
   * lec 1 Introduction and Optimization Problems <https://youtu.be/C1lhuz6pZC0>
+
+# day 37: 2019-02-08
+
+* MIT 6.034 lec3 Reasoning, Goal trees and rule-based expert system
+
+# day 38: 2019-02-09
+
+* MIT 6.0002 lec2 Optimization problems
+  * search tree
+  * dynamic programming
+  * exercises
+
+# day 39: 2019-02-10
+
+* MIT 6.0002 lec3. Graph-theoretic Models
+
+# day 40: 2019-02-11
+
+* **thoughts** the reason why I am watching MIT 6.0002 lectures is because it
+helps me remember the basic search/optimization algos and gives implementation
+of them, I want to reach at least lec6 to see Monte Carlo Simulation. 
+* Implement Node, Edge, Digraph, Graph, and algos in ldl/notDL/graph
+  from MIT 6.0002 lec3. Graph-theoretic Models
+* MIT 6.0002 lec4. Stochastic Thinking
+
+# day 41: 2019-02-12
+
+* MIT 6.0002 lec5. Random Walk
+
+# day 42: 2019-02-13
+
+* **thoughts** I should probably not have spent that much time on these lectures
+because they are pretty basic, but it was a nice break, I enjoy MIT lectures,
+but maybe not the best use of my time
+* MIT 6.0002 lec6. Monte Carlo Simulation
+
+# day 43: 2019-02-14
+
+* Analyzing the code of the Baker project
+
+# day 44: 2019-02-16
+
+* **thoughts** Fuck, I missed a day, not because I was too busy, but because I
+couldn't focus, because I have an addiction. I am addicted to distraction. It
+used to be facebook, then instagram, then youtube, then video games, then
+youtube again, now it's video games and twitch. I started to prevent myself from
+overthinking, a few years ago I couldn't stop thinking, I struggled to fall
+asleep, I sometimes struggled to listen to people because of my own unstoppable
+thoughts. Distractions helped me, but now it's almost like I am not thinking at
+all, I am preventing myself from doing anything.
+* Analyzing the code of the Baker project, to try to answer the questions :
+  * What was done ?
+  * What needs to be done ?
+* I am a little bit scared, because it's super slow and it doesn't seem to work
+properly, it's not solving the problem
+
+
+# day 45: 2019-02-17
+
+* A little bit of baker
