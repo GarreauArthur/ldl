@@ -1,4 +1,4 @@
-45
+46
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -394,3 +394,10 @@ properly, it's not solving the problem
 # day 45: 2019-02-17
 
 * A little bit of baker
+* read my notes on MIT 6.034
+* beginning of MIT 6.034 lec 7. Constraints: Interpreting Line Drawings
+
+# day 46: 2019-02-18
+
+* **thoughts** Fuck, busy fucking day, and tomorrow will probably be worse
+* a lil bit of time on baker
