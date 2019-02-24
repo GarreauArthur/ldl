@@ -1,4 +1,4 @@
-46
+50
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -401,3 +401,33 @@ properly, it's not solving the problem
 
 * **thoughts** Fuck, busy fucking day, and tomorrow will probably be worse
 * a lil bit of time on baker
+
+# day 47: 2019-02-19
+
+* **Thoughts** Technically I spend about 20 minutes doing ML related stuff, but
+on the 19 hours I was awake I probably waste 1hour in total. So it's a Le FAIL,
+I need to be more careful
+
+# day 48: 2019-02-20
+
+* Getting intel for the Baker project, and oh it's not looking good for me,
+trying to answer the questions "can I make it work ? or do i need to restart
+everything from scratch ?"
+
+# day 49: 2019-02-22
+
+* **thoughts** If I am not careful, if I am not focusing, time flies
+* baker project
+
+# day 50: 2019-02-23
+
+* **thought** i hate myself, I started working at 3pm and realize I was thinking
+at half my speed, so I tried to play a mine game as fast as I can, but I was so
+slow I need to move, walk or whatever, but it didn't work, and I ended up
+somehow playing chess the whole day, and because I am a terrible player I played
+small exercises. I've started to recognize a few patterns
+* baker project
+
+# day 50: 2019-02-24
+
+* Baker project, when you code don't be a ninja <https://javascript.info/ninja-code?fbclid=IwAR0Aa6yNYngRTuHD-vG9rmaNwM7Ma7deCwmxZtW0zvgJRrEU9U1MCChm6W4>
