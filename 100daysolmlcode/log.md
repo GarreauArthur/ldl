@@ -1,4 +1,4 @@
-50
+55
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -431,3 +431,43 @@ small exercises. I've started to recognize a few patterns
 # day 50: 2019-02-24
 
 * Baker project, when you code don't be a ninja <https://javascript.info/ninja-code?fbclid=IwAR0Aa6yNYngRTuHD-vG9rmaNwM7Ma7deCwmxZtW0zvgJRrEU9U1MCChm6W4>
+
+# day 51: 2019-02-25
+
+* **thoughts** the baker project is wasting my time, so I'll do something useful
+instead today, let's start week 2 of Course 5 of deeplearning.ai on NLP and word
+embeddings
+* Deeplearning.ai C5W2L01 Word Representation
+* Deeplearning.ai C5W2L02 Using Word Embeddings
+* Deeplearning.ai C5W2L03 Properties of Word Embeddings
+
+# day 52: 2019-02-26
+
+* **thoughts** I mad because I waste about 2h30 because of things/people I am not
+in control, I had no control on these situations, can't do anything about it,
+not trying to make excuses (a little bit, but life is hard)
+* Just a bit to prepare myself to thursday google hash code
+
+# day 53: 2019-02-27
+
+* NOTES TO MYSELF:
+  * Guide to learn DeepRL by OpenAI : <http://spinningup.openai.com/en/latest/user/introduction.html>
+  * and a lecture : <https://youtu.be/fdY7dt3ijgY>
+* Deeplearning.ai C5W2L04 : Embedding matrix
+* Deeplearning.ai C5W2L05 : Learning word embeddings
+* lil bit of thought process on the pizza hash code problem (just for fun, but
+don't have time)
+
+
+# day 54: 2019-02-28
+
+* Google Hash code, it was fun, our team was not organized and didn't really
+care, I spent 1h on a bug, and i've not figured it out yet, really fucking weird,
+but it was fun
+* I found the error, but I am not getting better results with the genetic algo
+I've started building than with random pick, and now I am mad
+
+# day 55: 2019-03-01
+
+* I want to make a genetic algorithm that work, because It should work right ?
+restart from scratch
