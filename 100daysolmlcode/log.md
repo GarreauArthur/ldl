@@ -1,4 +1,4 @@
-55
+56
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -471,3 +471,11 @@ I've started building than with random pick, and now I am mad
 
 * I want to make a genetic algorithm that work, because It should work right ?
 restart from scratch
+
+# day 56: 2019-03-03
+
+* **thoughts** Ok, I need to be careful now, I am starting to struggle to do
+this daily hour, I missed yesterday. This is the test, I need to keep doing the
+work, even if I am busy, tired, or don't feel like doing it.
+* Deeplearning.ai C5W2L06 : word2vec (the struggle is real, I spend 1 hour on
+this 12 minutes video, come on Arthur focus up)
