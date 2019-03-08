@@ -10,3 +10,4 @@ sed -i '' "1s/.*/$nb/" ./log.md
 dateOfTheDay=$(date +%Y-%m-%d)
 echo -e "\n# day $nb: $dateOfTheDay\n\n" >> ./log.md
 
+vim ./log.md

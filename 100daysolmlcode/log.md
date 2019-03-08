@@ -1,4 +1,4 @@
-56
+59
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -479,3 +479,27 @@ this daily hour, I missed yesterday. This is the test, I need to keep doing the
 work, even if I am busy, tired, or don't feel like doing it.
 * Deeplearning.ai C5W2L06 : word2vec (the struggle is real, I spend 1 hour on
 this 12 minutes video, come on Arthur focus up)
+
+# day 57: 2019-03-04
+
+* **fact** can't stop being interrupted
+* baker stuff
+* Deeplearning.ai C5W2L07 : Negative Sampling
+
+# day 57: 2019-03-05
+
+* Deeplearning.ai C5W2L08 : GloVe word vectors
+* Deeplearning.ai C5W2L09 : Sentiment Classification
+
+# day 58: 2019-03-06
+
+* Deeplearning.ai C5W2L10 : Debiasing word embeddings
+* Deeplearning.ai C5W3L01 : Basic models
+
+# day 59: 2019-03-07
+
+* MIT 6.006 23. Computational Complexity (N, P, NP, EXP, R, NP-complete, Reduction)
+* just wanted to code, start messing around on www.codingame.com to solve
+search/optimisation/NP problems, I really need to get better solving this kind
+of problems
+* Deeplearning.ai C5W3L02 : Picking the most likely sentence
