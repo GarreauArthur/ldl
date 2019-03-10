@@ -1,4 +1,4 @@
-59
+62
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -503,3 +503,17 @@ this 12 minutes video, come on Arthur focus up)
 search/optimisation/NP problems, I really need to get better solving this kind
 of problems
 * Deeplearning.ai C5W3L02 : Picking the most likely sentence
+
+# day 60: 2019-03-08
+
+* Deeplearning.ai C5W3L03 : Basic search
+
+# day 61: 2019-03-09
+
+* Deeplearning.ai C5W3L04 : Refinements to Beam
+* playing a little on codingame implementing Breadth first (because it's pretty
+much the same as Beam)
+
+# day 62: 2019-03-10
+
+* completed BFS codeingame
