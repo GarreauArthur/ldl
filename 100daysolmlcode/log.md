@@ -1,4 +1,4 @@
-62
+66
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -517,3 +517,25 @@ much the same as Beam)
 # day 62: 2019-03-10
 
 * completed BFS codeingame
+* Deeplearning.ai C5W3L05 : Error Analysis in Beam
+
+# day 63: 2019-03-11
+
+* Deeplearning.ai C5W3L06 : Bleu Score
+
+# day 64: 2019-03-12
+
+* Baker project report
+* Deeplearning.ai C5W3L07 : Attention Model intuition
+
+# day 65: 2019-03-13
+
+* **thoughts** I am not focused enough to watch the C5W3L08 (yet)
+* Baker project report
+
+# day 66: 2019-03-14
+
+* 25min of Ian Goodfellow: Generative Adversarial Networks (NIPS 2016 tutorial)
+<https://youtu.be/HGYYEUSm-0Q>
+* rapport baker
+
