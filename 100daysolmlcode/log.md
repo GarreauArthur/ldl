@@ -1,4 +1,4 @@
-66
+74
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -536,6 +536,46 @@ much the same as Beam)
 # day 66: 2019-03-14
 
 * 25min of Ian Goodfellow: Generative Adversarial Networks (NIPS 2016 tutorial)
-<https://youtu.be/HGYYEUSm-0Q>
+<https://youtu.be/HGYYEUSm-0Q>, [paper "resuming" the conf](https://arxiv.org/abs/1701.00160)
 * rapport baker
 
+# day 67: 2019-03-16
+
+* **note** bitch wtf I almost forgot, how can I forget something I do everyday ?
+* Deeplearning.ai C5W3L08 : Attention Model
+
+# day 68: 2019-03-18
+
+* Deeplearning.ai C5W3L9 : speech recognition
+
+# day 69: 2019-03-19
+
+* Deeplearning.ai C5W3L10 : Trigger word detection
+* Deeplearning.ai C5W3L11 : Conclusion and Thank you
+
+# day 70: 2019-03-20
+
+* **thoughts** DLC5 is now over, and I am very tired. I don't know what I can
+actually do with very low brain energy/processing
+* Notes on the 30 first minutes of "Ian Goodfellow: Generative Adversarial Networks (NIPS 2016 tutorial)"
+
+# day 71: 2019-03-21
+
+* Short Talk-What is a Manifold-I <https://youtu.be/cLRtp5yytAg>
+* keep going on "Ian Goodfellow: Generative Adversarial Networks (NIPS 2016 tutorial)"
+* CS 106B Lecture: Backtracking (permute a string)
+
+# day 72: 2019-03-22
+
+* learning more about TF2, but fuck it, I am just looking at the tutos and
+there is one a GAN to generate handwritten digits
+
+# day 73: 2019-03-23
+
+* taking notes on TF2 by studying the GAN tutorial, notes are in kl/tf2.md
+  * studied logits (the logit layer is the layer just BEFORE a softmax/normalization layer)
+* GAN tuto on google colab was surprisingly disappointing
+
+# day 74: 2019-03-24
+
+* Reading, DL chap 4 [77-78], DL chap 3 proba [51-70]
