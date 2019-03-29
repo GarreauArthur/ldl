@@ -1,4 +1,4 @@
-74
+78
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -579,3 +579,64 @@ there is one a GAN to generate handwritten digits
 # day 74: 2019-03-24
 
 * Reading, DL chap 4 [77-78], DL chap 3 proba [51-70]
+
+# day 75: 2019-03-25
+
+* **why reading the book now ?** To be able to understand better GAN, I need to
+have a deeper understanding of probability used in DL, so I decided to read
+(again DL Chap 3), chap 3 refers a lot to chapter 16, and it is useful to
+understand generative models
+* Reading DL chap 3 [70-76] information theory KL divergence, entropy, cross-entropy (re-read colah's article), structured probabilistic models
+* Reading DL chap 16 : Structured Probabilistic Models for DL [549-556]
+  * recap : structured probabilistic models help design probabilistic model with
+fewer parameters by studying the relations between random variables
+
+# day 76: 2019-03-26
+
+* Reading DL chap 16 [556-562]
+
+# day 77: 2019-03-27
+
+* Siraj's video on how to build an AI Startup in 40 minutes <https://youtu.be/NzmoPqte4V4>
+It points out some interesting idea (it's siraj, so it's go fast, even if it
+sucks, but that's how it should be) <https://github.com/llSourcell/AI_Startup_Prototype/blob/master/BuildanAIStartup.ipynb> :
+  * Step 1 Find a problem you want to solve (List Personal Problems)
+  * Step 2 Market Research (competing products)
+  * Step 3 Buy Domain, create logo (<http://brandmark.io>)
+  * Step 4 Create Landing Page (mailchimp)
+  * Step 5 Share Landing Page and get emails of people interested
+  * Step 6 Create Business Plan
+  * Step 7 Design Pipeline (user sign in/up, payment (stripe), interaction AI...)
+  * Step 8 Transfer Learning (!) (laverage other people hardword)
+  * Step 9 Create Web App (using framework, or other people's work, checkout github)
+  * Step 10 Deploy!
+* Just browsing tensorflow doc, and videos, don't know what to do or look at
+* **Thoughts** Goals in the short/mid-term :
+  * become confortabe with tf
+  * implement models like
+    * RNN
+    * attention
+    * GANs
+  * go back to my old ideas and make them happen
+
+# day 78: 2019-03-28
+
+* **thoughts** today I AM FUCKING MAD, mad because of my school project, mad
+because of my tiny shitty apple keyboard, I can't stop pressing the wrong key
+it's so frustrating, I am so fucking slow, it just take too much time, I can't
+do shit in just one hour. It takes time.
+* TF1 tutorials/sequences/text_generation, learning a bit about tf.data.Dataset
+almost went through all of it, but it's tf1 and the training time is estimated
+to 30hours, so I guess it doesn't work with TF2
+* oof just realizing that there's a TF 2.0 alpha section in tf's doc, and should
+read this instead of the old tf1 tutos ... well it doesn't matter, tf2 still
+runs tf1 code
+
+TODOS 
+* read tf 2.0 alpha
+* tf tutorials
+  * sequences
+    * text
+    * audio
+* implement course 5 dl model (text and trigger word)
+
