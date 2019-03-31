@@ -1,4 +1,4 @@
-78
+80
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -640,3 +640,15 @@ TODOS
     * audio
 * implement course 5 dl model (text and trigger word)
 
+# day 79: 2019-03-29
+
+* Going through TensorFlow 2.0 Alpha
+  * beginner notebook
+  * [effective tensorflow 2.0 guide](https://www.tensorflow.org/alpha/guide/effective_tf2)
+  * get started for beginners
+
+# day 80: 2019-03-30
+
+* tf aplha
+  * Get started for experts
+  * keras model subclassing API
