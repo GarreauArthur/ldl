@@ -1,4 +1,4 @@
-80
+84
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -6,6 +6,17 @@ My goals in AI are :
 * learn more models (RNN, GAN, RL, Trees)
 * gain more practical experience
 * win at least one kaggle competition
+
+TODOS 
+* tf tutorials
+  * Transfer learning with pretrained CNNS
+    * + adapt skin cancer
+    * IDEA: phone app to take a picture and see if skin cancer
+  * sequences
+    * text
+    * audio
+* implement course 5 dl model (text and trigger word)
+* look at (all) the different keras layers out there
 
 # days -2: 2019-01-01
 
@@ -632,14 +643,6 @@ to 30hours, so I guess it doesn't work with TF2
 read this instead of the old tf1 tutos ... well it doesn't matter, tf2 still
 runs tf1 code
 
-TODOS 
-* read tf 2.0 alpha
-* tf tutorials
-  * sequences
-    * text
-    * audio
-* implement course 5 dl model (text and trigger word)
-
 # day 79: 2019-03-29
 
 * Going through TensorFlow 2.0 Alpha
@@ -649,6 +652,51 @@ TODOS
 
 # day 80: 2019-03-30
 
-* tf aplha
+* tf alpha
   * Get started for experts
   * keras model subclassing API
+
+# day 81: 2019-03-31
+
+* `tf.function` and autoGraph <https://www.tensorflow.org/alpha/guide/autograph>
+* start of <https://www.tensorflow.org/alpha/tutorials/images/transfer_learning>
+
+# day 82: 2019-04-01
+
+* **thoughts** why time is flying today, jeez, I am so unfocused
+OMGlul, power level on google colab is fun, and stackoverflow is looking amazing
+* Transfer Learning Using Pretrained ConvNets (took me almost 3 hours but I fucking did it)
+  * Ready to use datasets in `import tensorflow_datasets as tfds`
+
+# day 83: 2019-04-02
+
+* **thoughts** Oof, for some reason I am starting to get my old bad habits back,
+and browse random youtube videos for hours. Anyway, so what I want to do is a
+small smartphone app to take pictures of people's skins, and classify if there
+is a potential malicious lesion, let's call it project [hahakuso] (haha=mother,
+kuso=excrement). The "daylight saving time" disturbs me every time. I have
+surprisingly done at least 1 hour (not efficient but still)
+* [HAHAKUSO]
+  * I was expecting to just grab some data, put it into yesterday's notebook,
+  but hold on
+  * Step 0 : started a new google colab notebook
+  * Step 1 : find a dataset
+  * Step 2 : understand the vocabulary (because I don't know anything about dermatology)
+
+# day 84: 2019-04-03
+
+* **me right now** I am sick and tired, I feel like trash, so I am just going
+to do something simple
+* DL.ai C3W01L01: Improving Model Performance
+* DL.ai C3W01L02: orthogonalization
+* The Internet is down, pepeHands
+
+# day 85: 2019-04-04
+
+* DL.ai C3W01L03: Single Number Evaluation Metric
+* DL.ai C3W01L04: Satisficing and Optimizing Metrics
+* DL.ai C3W01L05: Train/Dev/Test Set Distributions
+* DL.ai C3W01L06: Size of Dev/Test Sets
+
+to do : https://www.tensorflow.org/alpha/tutorials/load_data/images 
+transfer learning mais avec données skins cancer
