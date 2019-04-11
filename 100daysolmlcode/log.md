@@ -1,4 +1,4 @@
-84
+91
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -698,5 +698,45 @@ to do something simple
 * DL.ai C3W01L05: Train/Dev/Test Set Distributions
 * DL.ai C3W01L06: Size of Dev/Test Sets
 
+# day 86: 2019-04-05
+
+* DL.ai C3W01L07: When to change Dev/test sets
+* DL.ai C3W01L08: why human level performace ?
+* DL.ai C3W01L09: Avoidable bias
+
+# day 87: 2019-04-06
+
+* DL.ai C3W01L10: Understanding Human-level performance ?
+* DL.ai C3W01L11: Surpassing Human-level performance
+* DL.ai C3W01L12: Improving Model Performance
+
+# day 88: 2019-04-07
+
+* **thoughts** one of my worst day since a long time, I am stressed out, pissed
+off, i am so surprised i actually did something
+* DL.ai C3W02L01: Carrying out error analysis
+
+# day 89: 2019-04-08
+
+* **relativity** time seems to goes really slowly when i was watching DL videos,
+but then it started to feel to go faster when i put music on and i can't write english, i just want to sleep
+* DL.ai C3W02L02: Cleaning Up Incorrectly Labelled Data
+* DL.ai C3W02L03: Build First System Quickly, Then Iterate
+* [hahakuso] reading a kaggle notebook
+
+# day 90: 2019-04-10
+
+* I started looking at how to download a dataset from kaggle, but I am hyped to
+solve an optimization problem for my school project
+* **thought** I need to reset things, I need to restate my goals, fix my sleep
+schedule, be more focus, do this 1 hour a day properly, care more about my time
+
+# day 91: 2019-04-11
+
+* DL.ai C3W02L04: Training and Testing on Different Distributions
+* DL.ai C3W02L05: Bias and Variance With Mismatched Data
+
+* [Downloading the dataset from kaggle](https://medium.com/@opalkabert/downloading-kaggle-datasets-into-google-colab-fb9654c94235)
+* [hahakuso] finish reading the kaggle notebook
 to do : https://www.tensorflow.org/alpha/tutorials/load_data/images 
 transfer learning mais avec données skins cancer
