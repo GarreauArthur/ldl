@@ -1,4 +1,4 @@
-91
+99
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -17,6 +17,18 @@ TODOS
     * audio
 * implement course 5 dl model (text and trigger word)
 * look at (all) the different keras layers out there
+
+Shamely missed days:
+
+
+* 2019-02-15
+* 2019-02-21
+* 2019-03-02
+* 2019-03-15
+* 2019-03-17
+* 2019-04-09
+* 2019-04-12
+* 2019-04-15
 
 # days -2: 2019-01-01
 
@@ -735,6 +747,53 @@ schedule, be more focus, do this 1 hour a day properly, care more about my time
 
 * DL.ai C3W02L04: Training and Testing on Different Distributions
 * DL.ai C3W02L05: Bias and Variance With Mismatched Data
+
+# day 92: 2019-04-13
+
+* DL.ai C3W02L06: Addressing Data Mismatch
+* DL.ai C3W02L07: Transfer learning
+
+# day 93: 2019-04-14
+
+* DL.ai C3W02L08: Multitask Learning
+* DL.ai C3W02L09: end-to-end deep learning
+
+# day FAILED: 2019-04-15
+
+* OMEGUL i swear, the second I started the video, internet went off, no ethernet, no wifi, it's down
+
+# day 94: 2019-04-16
+
+* DL.ai C3W02L10: whether to use end-to-end deep learning
+
+# day 95: 2019-04-17
+
+* I didn't plan to do DL.ai C4, but I've done all the other, so why not, I am going to learn new things anyway
+* DL.ai C4W01L01: computer vision
+* DL.ai C4W01L02: Edge Detection Examples
+* DL.ai C4W01L03: More Edge Detection
+* DL.ai C4W01L04: Padding
+
+# day 96: 2019-04-18
+
+* **thought** i wish days were longer like 28hours
+* DL.ai C4W1L05 Strided Convolutions
+* DL.ai C4W1L06 Convolutions Over Volumes
+
+# day 97: 2019-04-19
+
+* **thought** i am an animal, it's pretty late, i am so tired
+* DL.ai C4W1L07 One Layer of a Convolutional Net
+
+# day 98: 2019-04-20
+
+* DL.ai C4W1L08 Simple Convolutional Network Example 
+* DL.ai C4W1L09 Pooling Layers
+* DL.ai C4W1L10 CNN Example
+
+# day 99: 2019-04-21
+
+* DL.ai C4W1L11 Why convolution ?
 
 * [Downloading the dataset from kaggle](https://medium.com/@opalkabert/downloading-kaggle-datasets-into-google-colab-fb9654c94235)
 * [hahakuso] finish reading the kaggle notebook
