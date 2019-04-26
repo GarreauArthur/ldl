@@ -1,4 +1,4 @@
-99
+101
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -795,7 +795,27 @@ schedule, be more focus, do this 1 hour a day properly, care more about my time
 
 * DL.ai C4W1L11 Why convolution ?
 
+# day 100: 2019-04-22
+
+* **thoughts** MF DAY 100, I've completed the 100ML challenge, 100 days learnin
+something about ML/AI, 100/108 I missed 8 days, but i didn't give up, I didn't
+stopped, I did it, so i am still happy
+* DL.ai C4W2L01 Why look at case studies?
+* DL.ai C4W2L02 Classic Network
+
+
+
 * [Downloading the dataset from kaggle](https://medium.com/@opalkabert/downloading-kaggle-datasets-into-google-colab-fb9654c94235)
 * [hahakuso] finish reading the kaggle notebook
 to do : https://www.tensorflow.org/alpha/tutorials/load_data/images 
 transfer learning mais avec données skins cancer
+
+
+
+
+# day 101: 2019-04-25
+
+* DL.ai C4W2L03 Resnets
+* C4W2L04 Why ResNets Work
+
+
