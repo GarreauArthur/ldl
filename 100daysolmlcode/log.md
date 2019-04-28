@@ -803,15 +803,45 @@ stopped, I did it, so i am still happy
 * DL.ai C4W2L01 Why look at case studies?
 * DL.ai C4W2L02 Classic Network
 
+# RECAP
 
+* more about numpy
+* more about pandas
+* Decision trees
+* Random forest
+* Deep learning ai Course 5 all 3 weeks
+  * Sequence Models (RNN, GRU, LSTM, word embedding, attention model, BLEU...)
+* more about Bias, Variance, confusion matrix
+* keno project
+* Linear Algebra by 3B1B to help have a better intuition of linear algebra
+* learn and strat using google colab
+* python "f-string"
+* a little about tensorflow keras
+* a bit about tensorflow 2
+* watch tons shit of tutos
+* baker project
+* back to optimization problems and search
+  * MIT 6.034 rewatch and read my notes
+  * genetic algo
+  * 6.0002 lec 1 to 6
+  * google hash code
+  * Beam, Breadth, Deep
+  * Dynamic programming
+* GAN
+* Transfer learning with tf
+* Beginning of project Hahakuso
+* DL.ai Course 3 Week 1
+* DL.ai Course 3 Week 2
+* DL.ai Course 4 Week 1
+* beginning of DL.ai Course 4 Week 2
+
+# TODO
 
 * [Downloading the dataset from kaggle](https://medium.com/@opalkabert/downloading-kaggle-datasets-into-google-colab-fb9654c94235)
 * [hahakuso] finish reading the kaggle notebook
 to do : https://www.tensorflow.org/alpha/tutorials/load_data/images 
 transfer learning mais avec données skins cancer
-
-
-
+* finish Course 4
 
 # day 101: 2019-04-25
 
