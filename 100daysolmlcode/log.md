@@ -1,4 +1,4 @@
-101
+102
 
 Goal : work at least an hour a day on AI/ML/DL/Coding/Project.
 My goals in AI are :
@@ -848,4 +848,7 @@ transfer learning mais avec données skins cancer
 * DL.ai C4W2L03 Resnets
 * C4W2L04 Why ResNets Work
 
+# day 102: 2019-04-29
 
+* read my notes of C4
+* C4W2L05 Network In Network
